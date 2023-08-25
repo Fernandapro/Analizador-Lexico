@@ -1,0 +1,55 @@
+C:\Users\RAGUEX\Desktop\jasmin.6to semestre\Compiladores\proyecto\bin\Debug\Compiladoresclase.exe.config
+C:\Users\RAGUEX\Desktop\jasmin.6to semestre\Compiladores\proyecto\bin\Debug\Compiladoresclase.exe
+C:\Users\RAGUEX\Desktop\jasmin.6to semestre\Compiladores\proyecto\bin\Debug\Compiladoresclase.pdb
+C:\Users\RAGUEX\Desktop\jasmin.6to semestre\Compiladores\proyecto\obj\Debug\Compiladoresclase - Copy.csprojAssemblyReference.cache
+C:\Users\RAGUEX\Desktop\jasmin.6to semestre\Compiladores\proyecto\obj\Debug\Compiladoresclase.Form1.resources
+C:\Users\RAGUEX\Desktop\jasmin.6to semestre\Compiladores\proyecto\obj\Debug\Compiladoresclase.Properties.Resources.resources
+C:\Users\RAGUEX\Desktop\jasmin.6to semestre\Compiladores\proyecto\obj\Debug\Compiladoresclase - Copy.csproj.GenerateResource.cache
+C:\Users\RAGUEX\Desktop\jasmin.6to semestre\Compiladores\proyecto\obj\Debug\Compiladoresclase - Copy.csproj.CoreCompileInputs.cache
+C:\Users\RAGUEX\Desktop\jasmin.6to semestre\Compiladores\proyecto\obj\Debug\Compiladoresclase.exe
+C:\Users\RAGUEX\Desktop\jasmin.6to semestre\Compiladores\proyecto\obj\Debug\Compiladoresclase.pdb
+D:\TRABAJOS\40D\proyecto\bin\Debug\Compiladoresclase.exe.config
+D:\TRABAJOS\40D\proyecto\bin\Debug\Compiladoresclase.exe
+D:\TRABAJOS\40D\proyecto\bin\Debug\Compiladoresclase.pdb
+D:\TRABAJOS\40D\proyecto\obj\Debug\Compiladoresclase - Copy.csproj.AssemblyReference.cache
+D:\TRABAJOS\40D\proyecto\obj\Debug\Compiladoresclase - Copy.csproj.SuggestedBindingRedirects.cache
+D:\TRABAJOS\40D\proyecto\obj\Debug\Compiladoresclase.Form1.resources
+D:\TRABAJOS\40D\proyecto\obj\Debug\Compiladoresclase.Properties.Resources.resources
+D:\TRABAJOS\40D\proyecto\obj\Debug\Compiladoresclase - Copy.csproj.GenerateResource.cache
+D:\TRABAJOS\40D\proyecto\obj\Debug\Compiladoresclase - Copy.csproj.CoreCompileInputs.cache
+D:\TRABAJOS\40D\proyecto\obj\Debug\Compiladoresclase.exe
+D:\TRABAJOS\40D\proyecto\obj\Debug\Compiladoresclase.pdb
+D:\TRABAJOS\40D\proyecto\obj\Debug\Compiladoresclase.datos.resources
+C:\Users\RAGUEX\Desktop\jasmin.6to semestre\Compiladores\Nueva carpeta\proyecto\bin\Debug\Compiladoresclase.exe.config
+C:\Users\RAGUEX\Desktop\jasmin.6to semestre\Compiladores\Nueva carpeta\proyecto\bin\Debug\Compiladoresclase.exe
+C:\Users\RAGUEX\Desktop\jasmin.6to semestre\Compiladores\Nueva carpeta\proyecto\bin\Debug\Compiladoresclase.pdb
+C:\Users\RAGUEX\Desktop\jasmin.6to semestre\Compiladores\Nueva carpeta\proyecto\obj\Debug\Compiladoresclase - Copy.csprojAssemblyReference.cache
+C:\Users\RAGUEX\Desktop\jasmin.6to semestre\Compiladores\Nueva carpeta\proyecto\obj\Debug\Compiladoresclase.datos.resources
+C:\Users\RAGUEX\Desktop\jasmin.6to semestre\Compiladores\Nueva carpeta\proyecto\obj\Debug\Compiladoresclase.Form1.resources
+C:\Users\RAGUEX\Desktop\jasmin.6to semestre\Compiladores\Nueva carpeta\proyecto\obj\Debug\Compiladoresclase.Properties.Resources.resources
+C:\Users\RAGUEX\Desktop\jasmin.6to semestre\Compiladores\Nueva carpeta\proyecto\obj\Debug\Compiladoresclase - Copy.csproj.GenerateResource.cache
+C:\Users\RAGUEX\Desktop\jasmin.6to semestre\Compiladores\Nueva carpeta\proyecto\obj\Debug\Compiladoresclase - Copy.csproj.CoreCompileInputs.cache
+C:\Users\RAGUEX\Desktop\jasmin.6to semestre\Compiladores\Nueva carpeta\proyecto\obj\Debug\Compiladoresclase.exe
+C:\Users\RAGUEX\Desktop\jasmin.6to semestre\Compiladores\Nueva carpeta\proyecto\obj\Debug\Compiladoresclase.pdb
+D:\Escritorio 2\jasmin.6to semestre\Compiladores\Nueva carpeta\proyecto\bin\Debug\Compiladoresclase.exe.config
+D:\Escritorio 2\jasmin.6to semestre\Compiladores\Nueva carpeta\proyecto\bin\Debug\Compiladoresclase.exe
+D:\Escritorio 2\jasmin.6to semestre\Compiladores\Nueva carpeta\proyecto\bin\Debug\Compiladoresclase.pdb
+D:\Escritorio 2\jasmin.6to semestre\Compiladores\Nueva carpeta\proyecto\obj\Debug\Compiladoresclase - Copy.csprojAssemblyReference.cache
+D:\Escritorio 2\jasmin.6to semestre\Compiladores\Nueva carpeta\proyecto\obj\Debug\Compiladoresclase.datos.resources
+D:\Escritorio 2\jasmin.6to semestre\Compiladores\Nueva carpeta\proyecto\obj\Debug\Compiladoresclase.Form1.resources
+D:\Escritorio 2\jasmin.6to semestre\Compiladores\Nueva carpeta\proyecto\obj\Debug\Compiladoresclase.Properties.Resources.resources
+D:\Escritorio 2\jasmin.6to semestre\Compiladores\Nueva carpeta\proyecto\obj\Debug\Compiladoresclase - Copy.csproj.GenerateResource.cache
+D:\Escritorio 2\jasmin.6to semestre\Compiladores\Nueva carpeta\proyecto\obj\Debug\Compiladoresclase - Copy.csproj.CoreCompileInputs.cache
+D:\Escritorio 2\jasmin.6to semestre\Compiladores\Nueva carpeta\proyecto\obj\Debug\Compiladoresclase.exe
+D:\Escritorio 2\jasmin.6to semestre\Compiladores\Nueva carpeta\proyecto\obj\Debug\Compiladoresclase.pdb
+C:\Users\Toshiba\Downloads\proyecto\bin\Debug\Compiladoresclase.exe.config
+C:\Users\Toshiba\Downloads\proyecto\bin\Debug\Compiladoresclase.exe
+C:\Users\Toshiba\Downloads\proyecto\bin\Debug\Compiladoresclase.pdb
+C:\Users\Toshiba\Downloads\proyecto\obj\Debug\Compiladoresclase - Copy.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Downloads\proyecto\obj\Debug\Compiladoresclase.datos.resources
+C:\Users\Toshiba\Downloads\proyecto\obj\Debug\Compiladoresclase.Form1.resources
+C:\Users\Toshiba\Downloads\proyecto\obj\Debug\Compiladoresclase.Properties.Resources.resources
+C:\Users\Toshiba\Downloads\proyecto\obj\Debug\Compiladoresclase - Copy.csproj.GenerateResource.cache
+C:\Users\Toshiba\Downloads\proyecto\obj\Debug\Compiladoresclase - Copy.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Downloads\proyecto\obj\Debug\Compiladoresclase.exe
+C:\Users\Toshiba\Downloads\proyecto\obj\Debug\Compiladoresclase.pdb
